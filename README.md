@@ -1,2 +1,2 @@
 # kusogame
-RPG200ツー必須
+RPG2000ツール必須
